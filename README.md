@@ -1,4 +1,4 @@
-![cavernforge_banner211](https://github.com/peejcodes/Cavernforge/assets/130196840/ef77bf00-ea9e-453d-9060-8c1c0e67f6f7)
+![cavernforge_banner211](https://github.com/peejcodes/Cavernforge/assets/130196840/d694fde0-2e06-428d-b63d-2f43524f0860)
 
 # Cavernforge
 A Dwarf Fortress inspired exploration into the simulation of fantasy realms
