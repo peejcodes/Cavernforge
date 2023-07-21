@@ -350,8 +350,3 @@ class Needs:
         
     def reduce_need(self, need):
             pass
-            
-        
-for index,need in enumerate(needs_list):
-    needs_list[index] = need.lower()
-print(needs_list)
